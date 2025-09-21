@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Daten und Ergebnisse
+*.csv
+*.txt
+*.png
+*.pdf
+output_*/
+
+# Archiv und temporäre Dateien
+Archiv/
+*.zip
+*.bak
+*.tmp
+
+# Virtuelle Umgebungen
+venv/
+.env/
