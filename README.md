@@ -1,27 +1,23 @@
 # Flow Measurement Analysis
 
-Dieses Projekt enthält Python-Skripte zur Auswertung und Visualisierung von Sensordaten für wissenschaftliche Arbeiten und industrielle Anwendungen.
+This project contains Python scripts for the analysis and visualization of sensor data for scientific research and industrial applications.
 
-## Inhalt
+## Contents
 
-- `Auwertung_Daten/Auswertung_aktuell.py`: Einzelauswertung von Messdaten
-- `Auwertung_Daten/Auswertung_kombiniert/Auswertung_kombiniert.py`: Kombinierte Auswertung mit Referenzdaten
+- `Auwertung_Daten/Auswertung_aktuell.py`: Individual analysis of measurement data
+- `Auwertung_Daten/Auswertung_kombiniert/Auswertung_kombiniert.py`: Combined analysis with reference data
 
-## Nutzung
+## Usage
 
-1. Python 3 und benötigte Pakete installieren (z.B. numpy, matplotlib, seaborn, scipy)
-2. Skripte ausführen:
-   ```
-   python Auwertung_Daten/Auswertung_aktuell.py
-   python Auwertung_Daten/Auswertung_kombiniert/Auswertung_kombiniert.py
-   ```
-3. Ergebnisse und Plots werden im jeweiligen Output-Ordner gespeichert.
+1. Install Python 3 and required packages (e.g. numpy, matplotlib, seaborn, scipy)
+2. Run the scripts:
+3. Results and plots will be saved in the respective output folders.
 
-## Hinweise
+## Notes
 
-- Für die Zusammenarbeit mit Professoren und Industriepartnern geeignet
-- Projekt kann auf GitHub geteilt und versioniert werden
+- Suitable for collaboration with professors and industry partners
+- The project can be shared and versioned on GitHub
 
-## Kontakt
+## Contact
 
-Fragen und Anregungen bitte an den Projektinhaber richten.
+For questions and suggestions, please contact the project owner.
