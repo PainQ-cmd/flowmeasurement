@@ -1,6 +1,6 @@
 # Flow Measurement Analysis
 
-Dieses Projekt enthält Python-Skripte zur Auswertung und Visualisierung von Sensordaten für wissenschaftliche Arbeiten, Promotion und industrielle Anwendungen.
+Dieses Projekt enthält Python-Skripte zur Auswertung und Visualisierung von Sensordaten für wissenschaftliche Arbeiten und industrielle Anwendungen.
 
 ## Inhalt
 
